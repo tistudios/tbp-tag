@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  hosting: false
+  background: MyString
+  age: 1
+  can_travel: false
+  category: MyString
+  location: MyString
+  posted: 2019-05-15 04:19:59
+  body_type: MyString
+  content: MyText
+  user_id: 
+
+two:
+  title: MyString
+  hosting: false
+  background: MyString
+  age: 1
+  can_travel: false
+  category: MyString
+  location: MyString
+  posted: 2019-05-15 04:19:59
+  body_type: MyString
+  content: MyText
+  user_id: 
